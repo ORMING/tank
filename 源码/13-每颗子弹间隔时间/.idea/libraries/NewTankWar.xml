@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="NewTankWar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/NewTankWar.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
